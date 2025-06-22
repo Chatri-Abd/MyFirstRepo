@@ -1,4 +1,6 @@
 # MyFirstRepo
 created by : Abdelhamid
-This is my first repository created as part of a GitHub learning task.
 
+My name is Abd, and I’m currently working as a warehouse operator in Morocco. I specialize in logistics operations and technical troubleshooting, with hands-on experience in motorcycle wiring, appliance repairs, and optimizing smartphone performance. I enjoy solving real-world problems using analytical thinking, structure, and curiosity.
+
+I'm passionate about exploring data science and software engineering as a way to transform modern logistics. Whether it’s learning GitHub workflows or preparing entrepreneurial strategies with Lean Canvas, I’m constantly expanding my skills to build a better future—one step at a time.
