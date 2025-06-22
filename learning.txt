@@ -1,3 +1,4 @@
+What I have learned from this course
 - Complete my ALX program and master GitHub workflows
 - Deepen my knowledge in logistics and supply chain management
 - Secure a sponsored university placement in data science
